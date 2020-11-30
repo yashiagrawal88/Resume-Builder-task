@@ -1,0 +1,39 @@
+.site-card-border-less-wrapper {
+  padding: 50px;
+     background: #ececec;
+   height: 100%;
+   width: 100%;
+   }
+ 
+.ant-form-item-label{
+    width: 50%;
+}
+.ant-card-head-title{
+    font-size: 30px;
+    text-shadow: 2px 1px 4px #dde3e7;
+    color: white;
+    
+}
+.ant-card-head{
+    width: 100%;
+    background-color: rgb(49, 4, 42);
+}
+form .ant-form-item-label{
+    text-align: center!important;
+    font-weight: 600;
+   
+}
+.ant-upload-select{
+    background-color: gray!important;
+}
+label{
+    color: rgb(49, 4, 42)!important;
+}
+
+.ant-btn-primary{
+    background-color:  rgb(49, 4, 42)!important;
+
+}
+select{
+    width:100%
+}
